@@ -19,7 +19,7 @@ function mostrar()
 		contador++;
 
 	}
-	alert("El resultadasdsado de la suma es " + resultado);
+	alert("El resultadasdsadasao de la suma es " + resultado);
 }
 
 
